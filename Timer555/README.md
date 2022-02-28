@@ -6,6 +6,7 @@ The circuit triggers the LED after 683ms and stays on for 1018ms and has frequen
 * Circuit Schematic
   
     <img src="images/Timer555_schematic.png"> 
+    
     <img src="images/3v to 5v Dc converter.png"> 
 
 
